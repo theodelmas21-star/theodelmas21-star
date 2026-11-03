@@ -15,7 +15,6 @@ Driven by a passion for understanding systems from the ground up, I am currently
 
 - **Languages:** Python, C, C++
 - **Specialization & Focus:** Machine Learning, AI Concepts, Databases, Data Structures & Algorithms
-- **Soft Skills & Core Strengths:** Stress Management, Adaptability, Communication, Problem-Solving, Teamwork
 
 ---
 
